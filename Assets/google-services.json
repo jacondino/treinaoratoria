@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "195034927629",
+    "firebase_url": "https://treinaoratoria.firebaseio.com",
+    "project_id": "treinaoratoria",
+    "storage_bucket": "treinaoratoria.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195034927629:android:f2e3819cf9cdd76f7ffb44",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.TreinaOratoria3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "195034927629-rvvsndbaljcfcid5tr0dq1jcvo1lhoci.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.DefaultCompany.TreinaOratoria3",
+            "certificate_hash": "050f0ff319c4e514622e6da6633057710fbfc890"
+          }
+        },
+        {
+          "client_id": "195034927629-lf7g3t3fjt7qg1anmjuu70q80mv9cl9j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.DefaultCompany.TreinaOratoria3",
+            "certificate_hash": "465a511d2e1a28d87bc095d26b3c6f488f609b4a"
+          }
+        },
+        {
+          "client_id": "195034927629-1k5gfi00si3b3iku0rl257gutsa7c0l0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkxmLAWdRv7xgEgRYjL74RfZnizPJ_ANc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "195034927629-1k5gfi00si3b3iku0rl257gutsa7c0l0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
